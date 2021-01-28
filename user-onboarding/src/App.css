@@ -48,7 +48,7 @@ label input[type="checkbox"] {
   margin-left: 1rem;
 }
 
-/* button {
+button {
   border: none;
   background-color: #e07a5f;
   color: #f4f1de;
@@ -61,7 +61,7 @@ button:hover {
   cursor: pointer;
   background: #f2cc8f;
   color: #3d405b;
-} */
+}
 
 .friend-container {
   text-align: center;
