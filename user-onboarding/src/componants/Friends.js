@@ -2,7 +2,7 @@ import React from 'react'
 
 function Friends(props) {
 
-  const { name, email, id} = props.details.user;
+  const { name, email, id } = props.details.user;
   
     return (
       
